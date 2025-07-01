@@ -1,0 +1,6 @@
+38:30
+
+Supabase --> for database management
+npm install @clerk/themes --> for themes in your clerk form 
+
+https://known-egret-63.clerk.accounts.dev
