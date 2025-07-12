@@ -1,4 +1,4 @@
-42:06
+1:08
 
 Supabase --> for database management
 npm install @clerk/themes --> for themes in your clerk form 
